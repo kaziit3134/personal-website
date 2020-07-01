@@ -1,0 +1,68 @@
+body{
+    font-family: 'Playfair Display', serif;
+    margin-left: 2%;
+}
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color: salmon;
+
+}
+.half-width{
+    width: 35%;
+    float: left;
+    margin-left: 6%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.header-banner{
+    
+    background-image: url("imeges/header-bg.png");
+}
+section{
+    height: 500px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: salmon;
+    padding: 12px 25px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}
+.biography-banner{
+    background-image: url("imeges/biography-bg.png");
+}
+
+.letest-work img{
+    width: 30%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    box-shadow: 5px 5px 5px 5px crimson;
+}
+.letest-work{
+    margin-left: 30%;
+    width: 30%;
+    float: left;
+    padding: 5px 5px 10px 15px;
+}
+.box{
+    margin: 50px 275px;
+    padding: 50px;
+
+}
+.footer{
+    background-image: url("imeges/footer-bg.png");
+}  
+.client-feedback{
+    text-align: center;
+}
+
+
+h5{
+    text-align: center;
+}
